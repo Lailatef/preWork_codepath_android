@@ -24,7 +24,7 @@ The following **optional** features are implemented:
 Here's a walkthrough of implemented features:
 
 <img src='http://i.imgur.com/link/to/your/gif/http://g.recordit.co/kPULbnJNns.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-<img src ="http://g.recordit.co/kPULbnJNns.gif">
+<img src ="http://g.recordit.co/kPULbnJNns.gif" width='400'>
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with [LiceCap](http://www.cockos.com/licecap/).  
 <!-- Other options include:
